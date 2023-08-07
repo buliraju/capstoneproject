@@ -1,0 +1,285 @@
+.raju{
+	background-image: url("../images/doctor-with-stethoscope.avif");
+	width: 800px;
+	height: 300px;
+	background-repeat: no-repeat;
+	margin-left: 400PX;
+	box-sizing: border-box;
+
+}
+.vara{
+	margin-left: 5px;
+	padding: 60px; 
+}
+.ae{
+height: 30px;
+	width: 100px;
+	background-color: blue;
+}
+.ba{
+	height: 200px;
+	width: 500px;
+	margin-left: 450PX;
+	border: 2px solid black;
+}
+.cd{
+	width: 170px;
+	height: 200px;
+	background-color: white;
+	float: left;
+}
+
+.de{
+	width: 170px;
+	height: 200px;
+	background-color: yellow;
+	float: left;
+}
+
+.ef{
+	width: 160px;
+	height: 200px;
+	background-color: pink;
+	float: right;
+}
+.fi{
+	height: 2px;
+	width: 500px;
+	margin-left: 500px
+}
+.jk{
+	height: 300px;
+	width: 800px;
+	
+	margin-left: 400px;
+}
+.op{
+	height: 300px;
+	width: 450px;
+	float: left;
+}
+
+
+.kl{
+	height: 100px;
+	width: 450px;
+	margin-left: 20px;
+}
+.lm{
+	height: 100px;
+	width: 450px;
+	margin-left: 20px;
+}
+.mn{
+	height: 100px;
+	width: 450px;
+	margin-left: 20px;
+}
+.no{
+	background-image: url("../images/heart-with-red-heart-it_717182-14.jpg");
+    width: 280px;
+    height: 260px;
+    float: right;
+
+}
+.pq{
+	height: 200px;
+	width: 800px;
+	background-color: lightblue;
+	margin-left: 400px;
+}
+
+#ghj{
+	position: relative;
+	top: 50px;
+	right: 250px;
+}
+#rgv{
+	position: relative;
+	top: 50px;
+	right: 200px;
+
+}
+#rrr{
+	position: relative;
+	top: 50px;
+	right: 150px;
+
+}
+#ram{
+	position: relative;
+	top: 50px;
+	right: 100px;
+
+}
+#cha{
+	position: relative;
+	top: 50px;
+	right: 50px;
+
+}
+#ran{
+	position: relative;
+	top: 50px;
+	right: 1px;
+
+}
+
+
+
+.rs{
+	height: 250px;
+	width: 800px;
+	background-color: white;
+	margin-left: 400px;
+}
+.st{
+	background-image: url("../images/male-doctor-checking-blood-pressure-patient_1170-2154.avif");
+    width: 350px;
+    height: 240px;
+    float: left;
+}
+.tu{
+	 width: 400px;
+    height: 240px;
+    float: right;
+    margin: 5px;
+}
+.uv{
+	height: 350px;
+	width: 800px;
+	margin-left: 400px;
+
+}
+.yz{
+	height: 350px;
+	width: 260px;
+	float: left;
+	margin: 5px;
+}
+.vw{
+	background-image: url("../images/stethoscope-white-surface_144627-33830.jpg");
+	height: 250px;
+	width: 260px;
+	
+
+}
+.wv{
+	height: 100px;
+	width: 260px;
+}
+.oz{
+	height: 350px;
+	width: 250px;
+	float: left;
+	margin: 5px;
+}
+
+
+
+.wx{
+	background-image: url("../images/empty-modern-teethcare-stomatology-hospital-office-with-nobody-it-equipped-with-dental-intruments-ready-orthodontist-healthcare-treatment-tooth-radiography-images-display_482257-941.jpg");
+	height: 230px;
+	width: 250px;
+	
+
+}
+.cb{
+	height: 100px;
+	width: 250px;
+}
+.dc{
+	height: 350px;
+	width: 260px;
+	float: right;
+	
+}
+.xy{
+	background-image: url("../images/faceless-mother-with-naked-baby-infant-holding-mommy-s-finger-mum-spending-time-with-her-tiny-child-light-background_176532-13966.jpg");
+	height: 250px;
+	width: 260px;
+
+}
+.ed{
+	height: 100px;
+	width: 250px;
+}
+.vinay{
+	height: 350px;
+	width: 800px;
+		margin-left: 400px;
+}
+.laxmn{
+	background-image: url("../images/world-map-isolated_98292-4295.jpg");
+	height: 300px;
+	width: 800px;
+
+}
+.bulli{
+	height: 450px;
+	width: 800px;
+	margin-left: 400PX;
+}
+.krishna{
+	height: 350px;
+	width: 800px;
+}
+.ra{
+	background-image: url("../images/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg");
+	height: 300px;
+	width: 250px;
+	float: left;
+	margin: 10px;
+}
+.ju{
+	background-image: url("../images/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg");
+	height: 300px;
+	width: 250px;
+	float: left;
+	margin: 10px;
+}
+.bu{
+	background-image: url("../images/portrait-doctor_144627-39390.jpg");
+	height: 300px;
+	width: 250px;
+	float: left;
+	
+}
+.au{
+	height: 60px;
+	width: 250px;
+	
+}
+.in{
+	height: 60px;
+	width: 250px;
+
+}
+.ao{
+	height: 60px;
+	width: 250px;
+	
+}
+.don{
+height: 50px;
+width: 200px;
+margin-left: 400px
+
+}
+
+.venkat{
+height: 50px;
+width: 200px;
+margin-left: 400px
+
+}
+.veera{
+height: 50px;
+width: 200px;
+margin-left: 400px
+
+}
+
+
+
+
